@@ -11,7 +11,7 @@ header {
     font-size:32px;
     color:rgb(42, 122, 228);
 }
-section{
+.chamada{
     background: rgb(184,156,213);
     padding-bottom: 80px;
     padding-top:80px ;
@@ -49,4 +49,3 @@ p{
     .categoria h2 {
         color:rgb(42, 122, 228);
     }
-    
