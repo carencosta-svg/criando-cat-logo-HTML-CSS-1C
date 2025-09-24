@@ -3,7 +3,7 @@ body{
     background: black;
     margin: 0px;
 }
-font-family:"Chakra Petch", sans-serif;
+font-family:"chakra Petch", sans-serif;
 margin-botoom:100px
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
@@ -49,4 +49,3 @@ p{
     .categoria h2 {
         color:rgb(42, 122, 228);
     }
-        
